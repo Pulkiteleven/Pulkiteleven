@@ -1,16 +1,35 @@
-### Hi there 👋
+### Hello folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Satyam Sharma is here!
 
-<!--
-**Pulkiteleven/Pulkiteleven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- I'm a 1st-year B. Tech. (CSE) student at University Institute of Technology RGPV.
+- Passionate about Android Development & Machine Learning.
+- Looking to collaborate with other developers. 
+- Learning more tools and technologies which are mentioned below to build big projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Toolbox
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Java-4BC0F4?style=for-the-badge&logo=java&logoColor=black)
+![](https://img.shields.io/badge/Kotlin-A4C639?style=for-the-badge&logo=kotlin&logoColor=black)
+![](https://img.shields.io/badge/CPP-7AB5CF?style=for-the-badge&logo=cplusplus&logoColor=white)
+![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
+![](https://img.shields.io/badge/Firebase-fafafa?style=for-the-badge&logo=firebase&logoColor=FFA611)
+![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Git-3E2C00?style=for-the-badge&logo=git&logoColor=F1502F)
+![](https://img.shields.io/badge/GitHub-fafafa?style=for-the-badge&logo=github&logoColor=4078c0)
+![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/Unity-FFD43B?style=for-the-badge&logo=unity&logoColor=306998)
+![](https://img.shields.io/badge/C#-F7DF1E?style=for-the-badge&logo=c-Sharp&logoColor=black)
+
+---
+  
+## &#x1f4c8; My GitHub Stats
+| Pulkit's GitHub Stats | GitHub Streak |
+| --- | --- |
+[![Pulkit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pulkiteleven&show_icons=true)](https://github.com/Pulkiteleven) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pulkiteleven)](https://github.com/Pulkiteleven) |
