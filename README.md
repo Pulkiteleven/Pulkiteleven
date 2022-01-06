@@ -25,7 +25,7 @@
 ![](https://img.shields.io/badge/GitHub-fafafa?style=for-the-badge&logo=github&logoColor=4078c0)
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/Unity-FFD43B?style=for-the-badge&logo=unity&logoColor=306998)
-![](https://img.shields.io/badge/C#-F7DF1E?style=for-the-badge&logo=csharp&logoColor=black)
+![](https://img.shields.io/badge/C#-F7DF1E?style=for-the-badge&logo=c#&logoColor=black)
 
 ---
   
