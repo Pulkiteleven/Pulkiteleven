@@ -29,7 +29,7 @@
 ---
 
 ## 🎯 Working On 
-| Interested | Code-Note |
+| Interested | Quizzler |
 | --- | --- |
 [![Interested](https://github-readme-stats.vercel.app/api/pin/?username=Pulkiteleven&repo=Interested)](https://github.com/Pulkiteleven/Interested) | [![Quizzler](https://github-readme-stats.vercel.app/api/pin/?username=Pulkiteleven&repo=quizzler)](https://github.com/Pulkiteleven/quizzler) | 
 
