@@ -3,8 +3,8 @@
 ---
 
 ### 🚀 About Me
-- I'm a 1st-year B. Tech. (CSE) student at University Institute of Technology RGPV.
-- Passionate about Android Development & Machine Learning.
+- I'm a B. Tech. (CSE) student at University Institute of Technology RGPV.
+- Passionate about App Development & Machine Learning.
 - Looking to collaborate with other developers. 
 - Learning more tools and technologies which are mentioned below to build big projects.
 
